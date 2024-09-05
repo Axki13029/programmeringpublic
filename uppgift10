@@ -1,0 +1,7 @@
+#Formeln y = 265000 * 0,85x visar hur värdet y kr av en bil avtar med tiden x år.
+#a) Beräkna efter hur många år värdet är 100 000 kr
+#b) Låt användaren får ange startvärdet på bilen själv.
+#c) Låt användaren få ange i vilken procentuell takt som bilens värde avtar varje år.
+######################################################################################
+import math
+print((math.log10(100000/265000))/math.log10(0.85))
