@@ -25,5 +25,3 @@ elif P<51:
     print("A")
 else:
     print("Error, det är inte möjligt att få mängden poäng du skrev in testa igen")
-
-
