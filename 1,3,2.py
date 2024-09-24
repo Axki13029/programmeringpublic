@@ -1,3 +1,3 @@
 apa=str("Alla känner apan, men apan känner ingen")
 print(apa)
-Slice
+print(apa.replace("apa","Gorilla"))
